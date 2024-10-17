@@ -3,17 +3,7 @@
 //Samantha Pintor
 //9-30-24
 //Lab Three
-
-#include <iostream>
-#include <iomanip>
-#include <string>
-
-using namespace std;
-
-int main()
-{
-    
-   
+  
 #include <iostream>
 #include <iomanip>
 
